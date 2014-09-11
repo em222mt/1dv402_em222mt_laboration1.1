@@ -1,0 +1,6 @@
+D:\Projekt\1DV402.S1.L01A\1DV402.S1.L01A\bin\Debug\1DV402.S1.L01A.exe.config
+D:\Projekt\1DV402.S1.L01A\1DV402.S1.L01A\obj\Debug\1DV402.S1.L01A.csprojResolveAssemblyReference.cache
+D:\Projekt\1DV402.S1.L01A\1DV402.S1.L01A\bin\Debug\1DV402.S1.L01A.exe
+D:\Projekt\1DV402.S1.L01A\1DV402.S1.L01A\bin\Debug\1DV402.S1.L01A.pdb
+D:\Projekt\1DV402.S1.L01A\1DV402.S1.L01A\obj\Debug\1DV402.S1.L01A.exe
+D:\Projekt\1DV402.S1.L01A\1DV402.S1.L01A\obj\Debug\1DV402.S1.L01A.pdb
